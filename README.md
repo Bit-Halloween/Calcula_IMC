@@ -2,8 +2,8 @@
 
 👥 Integrantes
 
-Diego Meira           - 1109435
-Eduardo Barreda Mello - 1138704
+* Diego Meira           - 1109435
+* Eduardo Barreda Mello - 1138704
 -------------------------------
 
 ## 📋 Descrição do Projeto
